@@ -27,7 +27,9 @@ Zzx.prototype ={
 								{src:"cover.jpg",title:"1、前言――借您一双上帝之眼",song:"rl001"},
 								{src:"cover.jpg",title:"2、智人觉醒――席卷全球的洪水",song:"rl002"},
 								{src:"cover.jpg",title:"3、认知革命――上帝之手的秘密",song:"rl003"},
-								{src:"cover.jpg",title:"4、农业革命――使人类悲剧开始的巨大骗局",song:"rl004"}
+								{src:"cover.jpg",title:"4、农业革命――使人类悲剧开始的巨大骗局",song:"rl004"},
+								{src:"cover.jpg",title:"5、天堂地狱――人类餐桌上的动物",song:"rl005"},
+								{src:"cover.jpg",title:"6、监狱高墙――想象构建的秩序",song:"rl006"},
 							]
 						}
 		this.createList(true);
