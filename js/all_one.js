@@ -30,6 +30,9 @@ Zzx.prototype ={
 								{src:"cover.jpg",title:"4、农业革命――使人类悲剧开始的巨大骗局",song:"rl004"},
 								{src:"cover.jpg",title:"5、天堂地狱――人类餐桌上的动物",song:"rl005"},
 								{src:"cover.jpg",title:"6、监狱高墙――想象构建的秩序",song:"rl006"},
+								{src:"cover.jpg",title:"7、融合统一（上）――历史的方向、金钱的味道",song:"rl007"},
+								{src:"cover.jpg",title:"8、融合统一（中）――帝国的愿景",song:"rl008"},
+								{src:"cover.jpg",title:"9、融合统一（下）――宗教的法则、历史的混沌",song:"rl009"},
 							]
 						}
 		this.createList(true);
