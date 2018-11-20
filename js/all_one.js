@@ -33,6 +33,13 @@ Zzx.prototype ={
 								{src:"cover.jpg",title:"7、融合统一（上）――历史的方向、金钱的味道",song:"rl007"},
 								{src:"cover.jpg",title:"8、融合统一（中）――帝国的愿景",song:"rl008"},
 								{src:"cover.jpg",title:"9、融合统一（下）――宗教的法则、历史的混沌",song:"rl009"},
+								{src:"cover.jpg",title:"10、科学革命――承认自己无知的革命",song:"rl010"},
+								{src:"cover.jpg",title:"11、腾飞双翼――帝国主义和资本主义",song:"rl011"},
+								{src:"cover.jpg",title:"12、工业革命――一场永远的革命",song:"rl012"},
+								{src:"cover.jpg",title:"13、不断追寻（上）――我们是否越来越快乐？",song:"rl013"},
+								{src:"cover.jpg",title:"14、不断追寻（下）――重新认识自己",song:"rl014"},
+								{src:"cover.jpg",title:"15、开启未来（上）――智人的灭亡",song:"rl015"},
+								{src:"cover.jpg",title:"16、开启未来（下）――智慧之心",song:"rl016"}
 							]
 						}
 		this.createList(true);
